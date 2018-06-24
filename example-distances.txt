@@ -1,0 +1,8 @@
+4
+Roma
+Milano
+Torino
+Napoli
+100 200 60
+50 160
+260
